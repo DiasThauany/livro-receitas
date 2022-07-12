@@ -1,5 +1,5 @@
 # Livro de Receitas 
-Olá, Bem vindo ao meu livro de receiras :D
+Olá, Bem vindo ao meu livro de receitas :D
 
- Lasanha de quatro queijos
+* Lasanha de quatro queijos
  
